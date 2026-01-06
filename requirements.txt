@@ -1,0 +1,18 @@
+# Web framework
+Flask==3.0.0
+gunicorn==21.2.0
+
+# ML / Deep Learning
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.26.4
+Pillow==10.2.0
+
+# OpenCV (headless for cloud servers)
+opencv-python-headless==4.9.0.80
+
+# Google Gemini AI SDK
+google-genai==0.3.0
+
+# Security / Password hashing
+Werkzeug==3.0.1
